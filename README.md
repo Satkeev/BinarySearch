@@ -11,3 +11,6 @@ key, or -1 if the element does not exist.
 The iterative approach to binary search comes with a logn time because the array is continually being divided in half   
 after every comparison. Since no other space is being analyzed or used, it stays at O(1).  
 ##Solution  
+
+![](https://github.com/Satkeev/BinarySearch/blob/master/BinarySearch/Annotation%202020-07-08%20210159.png)
+
